@@ -1,0 +1,5 @@
+docker inspect -f Char | grep 'IPAddress'
+
+or
+
+docker-machine ip
